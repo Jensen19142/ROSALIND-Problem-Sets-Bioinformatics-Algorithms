@@ -1,1 +1,1 @@
-# ROSALIND-Problem-Sets-Bioinformatics-Algorithms
+# ROSALIND Problem Sets: Bioinformatics Algorithms
